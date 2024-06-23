@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Remote Access Client</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="desc_for_add_button">Button for adding new connections</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+    <string name="add_connection_title">Добавить соединение</string>
+    <string name="ip_input_hint">127.0.0.1:3000</string>
+    <string name="finish_add_connection">Добавить</string>
+</resources>
